@@ -7,5 +7,3 @@
  - 'Prudential_Life_Insurance_test.csv': test set;
  - 'Prudential_Life_Insurance_results.csv': submission file that contains the tuples ('Id', 'Response') for each 'Id' in the test set;
  - 'requirements.txt': file with the libraries used in the project.
-
- To assess the performance of the best model without having to run the whole training notebook, the pickle library was used to serialize and save it. 
