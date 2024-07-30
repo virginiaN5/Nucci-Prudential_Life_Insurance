@@ -6,5 +6,7 @@ The project is therefore structured following the stages of the analytic pipelin
 - Data Preprocessing
 - Data Modeling
 - Performance Evaluation
+
 The evaluation is done is terms of the quadratic weighted kappa, a score that expresses the level of agreement between two annotators on a classification problem, and that ranges from 0 to 1, where 0 and 1 represent respectively random and complete agreement. The two annotators are the actual and predicted risk.
+
 For this project, the best modeling tecnique implemented is XGBoost, that leads to a quadratic weighted kappa score of 0.573 .  
