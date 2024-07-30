@@ -1,5 +1,7 @@
-The Kaggle competition chosen is hosted by Prudential, one of the largest issuers of life insurance in the USA. The project aims to develop a predictive model that can be used to identify risk and eligibility of a customer in a faster way to speed up the insurance application process, that otherwise can be discouraging for customers. 
+The Kaggle competition chosen is hosted by Prudential, one of the largest issuers of life insurance in the USA. This project aims to develop a predictive model that can be used to identify risk and eligibility of a customer in a faster way to speed up the insurance application process, that otherwise can be discouraging for customers. 
+
 Given over a hundred variables describing attributes of life insurance applicants, the task is to predict the "Response" variable for each Id in the test set, where "Response" is an ordinal measure of risk that has 8 levels (from the kaggle competition website, https://www.kaggle.com/competitions/prudential-life-insurance-assessment/overview).
+
 The project is therefore structured following the stages of the analytic pipeline, such as:
 - Data Acquisition
 - Data Visualization
